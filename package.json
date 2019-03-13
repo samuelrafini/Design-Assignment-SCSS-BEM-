@@ -1,0 +1,27 @@
+{
+  "name": "design_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.0.2",
+    "load-grunt-config": "^1.0.1",
+    "load-grunt-tasks": "^4.0.0",
+    "node-sass": "^4.11.0"
+  },
+  "dependencies": {
+    "ruby": "^0.6.1",
+    "sass": "^1.17.2"
+  }
+}
